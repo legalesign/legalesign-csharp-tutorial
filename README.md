@@ -1,36 +1,11 @@
-# MyConsoleApp
+# Legalesign C# Example Application
 
 This is a simple C# console application.
 
 ## Getting Started
 
-To build and run this application, follow these steps:
+Open the `launch.json` file and alter the args to be the email/username and password of your
+testing or automation account.
 
-1. **Clone the repository**:
-   ```
-   git clone <repository-url>
-   ```
-
-2. **Navigate to the project directory**:
-   ```
-   cd MyConsoleApp
-   ```
-
-3. **Build the project**:
-   ```
-   dotnet build
-   ```
-
-4. **Run the application**:
-   ```
-   dotnet run
-   ```
-
-## Project Structure
-
-- **MyConsoleApp.csproj**: Project file containing dependencies and build settings.
-- **Program.cs**: Entry point of the application with the `Main` method.
-
-## Contributing
-
-Feel free to submit issues or pull requests for any improvements or bug fixes.
+If you integrating Legalesign with your system get in touch with support to 
+get some **testing credit**.

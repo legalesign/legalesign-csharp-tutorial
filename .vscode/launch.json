@@ -7,7 +7,7 @@
             "request": "launch",
             "preLaunchTask": "build",
             "program": "${workspaceFolder}/bin/Debug/net9.0/CSharpLegalesignExample.dll",
-            "args": ["alex.weinle@legalesign.com", "SecretPassword%"],
+            "args": ["test@legalesign.com", "SecretPassword%"],
             "cwd": "${workspaceFolder}",
             "console": "internalConsole",
             "stopAtEntry": false
